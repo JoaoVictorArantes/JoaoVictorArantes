@@ -2,16 +2,15 @@
 
 <div>
 	<style>
-    		.container {
-        	display: flex;
-        	flex-direction: column;
-        	align-items: center; /* Centraliza as imagens horizontalmente */
-    	}
-
-    	.imagem {
-        	margin-bottom: 10px; /* Espaçamento entre as imagens */
-    	}
-     </style>
+		.container {
+        		display: flex;
+        		flex-direction: column;
+        		align-items: center; /* Centraliza as imagens horizontalmente */
+    		}
+		.imagem {
+      			margin-bottom: 10px; /* Espaçamento entre as imagens */
+	  	}
+      </style>
  
 <div class="container">
 	  <a href="https://github.com/JoaoVictorArantes">
