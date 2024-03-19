@@ -1,12 +1,12 @@
 <b><i> Aspiring Developer! :) </b></em>
 
 <div> 
-	<div class="container">
+	<div align= "center">
 		  <a href="https://github.com/JoaoVictorArantes">
-		  	<div class="container">
+		  	<div>
 				<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorArantes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="imagem1" class="imagem"/>
 			</div>
-			<div class="container">
+			<div>
 		 		<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorArantes&layout=compact&langs_count=7&theme=dark" alt="imagem2" class="imagem"/> 
 			</div>
 		</div>
