@@ -1,22 +1,26 @@
-Aspiring Developer! :)
- <div>
+<b><i> Aspiring Developer! :) </b></em>
+
+ <style>
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Centraliza as imagens horizontalmente */
+    }
+
+    .imagem {
+        margin-bottom: 10px; /* Espaçamento entre as imagens */
+    }
+</style>
+ 
+ <div class="container">
   <a href="https://github.com/JoaoVictorArantes">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorArantes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorArantes&layout=compact&langs_count=7&theme=dark"/>
+  	<div class="container">
+		<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorArantes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="imagem1" class="imagem"/>
+	</div>
+	<div class="container">
+ 		<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorArantes&layout=compact&langs_count=7&theme=dark" alt="imagem2" class="imagem"/> 
+	</div>
 </div>
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
- <!-- <img align="center" alt="Rafa-angularjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
- <img align="center" alt="Rafa-angularjs" height="40" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)">
-  <img align="center" alt="Rafa-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
-  <img align="center" alt="Rafa-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Rafa-DotNet" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">
-  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
-  <img align="center" alt="Rafa-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div> -->
 
 <div align="center">
 	<code><img align="center" width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
