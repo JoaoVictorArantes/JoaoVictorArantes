@@ -1,26 +1,15 @@
 <b><i> Aspiring Developer! :) </b></em>
 
-<div>
-	<style>
-		.container {
-        		display: flex;
-        		flex-direction: column;
-        		align-items: center; /* Centraliza as imagens horizontalmente */
-    		}
-		.imagem {
-      			margin-bottom: 10px; /* Espaçamento entre as imagens */
-	  	}
-      </style>
- 
-<div class="container">
-	  <a href="https://github.com/JoaoVictorArantes">
-	  	<div class="container">
-			<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorArantes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="imagem1" class="imagem"/>
+<div> 
+	<div class="container">
+		  <a href="https://github.com/JoaoVictorArantes">
+		  	<div class="container">
+				<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorArantes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="imagem1" class="imagem"/>
+			</div>
+			<div class="container">
+		 		<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorArantes&layout=compact&langs_count=7&theme=dark" alt="imagem2" class="imagem"/> 
+			</div>
 		</div>
-		<div class="container">
-	 		<img align-items="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorArantes&layout=compact&langs_count=7&theme=dark" alt="imagem2" class="imagem"/> 
-		</div>
-	</div>
  </div>
 <div align="center">
 	<code><img align="center" width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
